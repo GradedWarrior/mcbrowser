@@ -22,4 +22,4 @@ y=10
 width=50
 height=20
 text=test2
-onclick=var m = new page.Module("button", "x=0", "y=0", "width=100", "height=100", "text=YOOOO"); page.addModule(m);
+onclick=var m = new page.Module("button", "x=0 y=0 width=100 height=100 text=YOOOO"); page.addModule(m);
