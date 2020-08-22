@@ -22,4 +22,4 @@ y=10
 width=50
 height=20
 text=test2
-onclick=var m = page.Module("button", javaArray); page.addModule(m);
+onclick=var m = browser.Module("button", javaArray); browser.addModule(m);
