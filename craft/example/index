@@ -15,11 +15,3 @@ item-icon-3=EDIT
 item-link-4=welcome.official/report
 item-label-4=Report
 item-icon-4=ERROR
-
-#button
-x=10
-y=10
-width=50
-height=20
-text=test2
-onclick=var m = browser.Module("button", javaArray); browser.addModule(m);
